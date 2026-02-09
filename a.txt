@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 1200-EA64
+
+ Directory of C:\Users\vidhubala\classwork\classwork
+
+09-02-2026  14:36    <DIR>          .
+09-02-2026  14:25    <DIR>          ..
+09-02-2026  14:36                 0 a.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  31,415,001,088 bytes free
